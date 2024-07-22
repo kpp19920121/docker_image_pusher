@@ -1,1 +1,2 @@
 kpp19920121/docker_oracle:12.2
+nginx
