@@ -1,8 +1,7 @@
-kpp19920121/docker_oracle:12.2
-kpp19920121/docker_oracle:11.2-ee
-nginx
-kpp19920121/docker_mq:v0.0.1
-kpp19920121/centos_open_software:v0.0.5
-kpp19920121/websphere:8.5.5.0
-kpp19920121/docker_centos7:v0.0.1
-kpp19920121/docker_rocketmq:4.7.1
+godmeowicesun/kingbase
+enmotech/opengauss
+enmotech/opengauss:5.0.0
+hugochand/dm-amd64
+oceanbase/oceanbase-ce
+kpp19920121/mysql-starter:5.7
+postgres
