@@ -1,7 +1,1 @@
-godmeowicesun/kingbase
-enmotech/opengauss
-enmotech/opengauss:5.0.0
-hugochand/dm-amd64
-oceanbase/oceanbase-ce
-kpp19920121/mysql-starter:5.7
-postgres
+gitlab/gitlab-ce
