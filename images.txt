@@ -1,1 +1,1 @@
-bitnami/harbor-registryctl
+gitlab/gitlab-ce:16.9.9-ce.0
