@@ -1,2 +1,1 @@
-bitnami/metallb-controller:0.12.1
-bitnami/metallb/speaker:v0.12.1
+bitnami/metallb-speaker:0.12.1
