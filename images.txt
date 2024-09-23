@@ -1,2 +1,2 @@
-rancher/rancher-agent:v2.9.1
-rancher/kube-api-auth:v0.2.2
+quay.io/metallb/controller:v0.12.1
+quay.io/metallb/speaker:v0.12.1
