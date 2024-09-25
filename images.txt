@@ -1,1 +1,1 @@
-rancher/metrics-server:v0.3.6
+rancher/metrics-server:v0.5.0
