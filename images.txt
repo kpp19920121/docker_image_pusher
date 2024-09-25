@@ -1,1 +1,1 @@
-bitnami/metallb-speaker:0.12.1
+rancher/metrics-server:v0.3.6
