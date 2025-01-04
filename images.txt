@@ -1,1 +1,2 @@
-kdvolder/jdk8:latest
+pingcap/tidb
+
